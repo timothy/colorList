@@ -7,7 +7,6 @@ package colors;
 
 import javax.swing.DefaultListModel;
 import colorHash.ColorHash;
-import java.awt.Color;
 
 /**
  *
